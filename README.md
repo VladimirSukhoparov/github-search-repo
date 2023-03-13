@@ -1,5 +1,5 @@
 # GitHub API search
-site: https://vladimirsukhoparov.github.io/github-search/
+github-pages: https://vladimirsukhoparov.github.io/github-search/
 
 documentation: https://docs.github.com/en/rest/search?apiVersion=2022-11-28
 
